@@ -2,12 +2,14 @@
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
-**Aluno**:
+**Aluno**: Gabriel Venegas
 
-**Aluno**:
+**Aluno**: Beatrice Lopes
 
-**Aluno**:
+**Aluno**: Jefferson Lopes
 
-**Professor**:
+**Professor**: Giuliano Araujo Bertoti
 
 **3º Semestre ADS/Turma A - Interação Humano Computador**
+
+**Descrição**: Projeto de IHC relacionado a realidade aumentada, onde usamos um modelo 3D de furadeira para instruir os funcionários da empresa Latécoère, dinamizando o treinamento.  
