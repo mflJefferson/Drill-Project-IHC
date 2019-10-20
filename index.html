@@ -6,9 +6,17 @@
         <a-scene embedded arjs>
             
         <a-marker preset="hiro">
-            <a-entity collada-model="url(https://raw.githubusercontent.com/mflJefferson/gltftest/master/model.dae)"
+            <a-entity collada-model="url(https://raw.githubusercontent.com/GrinErrow/Gltf/master/dae/Handgun_dae.dae)"
                       rotation = "-90 0 0"
-                      scale = "3 3 3"></a-entity>
+                      scale = "4 4 4">
+                    <a-animation attribute = "position"
+                    dur = "3000"
+                    from = "-5 0 0"
+                    to = "5 0 0"
+                    repeat = "indefinitive">
+                  </a-animation>
+                    </a-animation>
+                    </a-entity>
         </a-marker>
           
          <a-entity camera></a-entity>
